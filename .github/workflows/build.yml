@@ -1,0 +1,6 @@
+- run: unzip -q IslandPlus.zip
+...
+  working-directory: IslandPlus
+...
+  name: IslandPlus-APK
+  path: IslandPlus/app/build/outputs/apk/debug/app-debug.apk
